@@ -62,6 +62,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
+  /*
   {
     title: "GirlScript Summer Of Code 2020",
     cardImage: "assets/images/experience-page/1.jpg",
@@ -86,6 +87,7 @@ const volunteershipcards = [
     description:
       "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
   },
+  */
 ];
 
 const showCards = () => {
